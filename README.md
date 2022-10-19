@@ -1,4 +1,4 @@
-### I am Jakub, a third year student of Computer Science at AGH University
+### I am Jakub, a forth-year student of Computer Science at AGH University
 
 <p align="center">
   <img height="30%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kkoz3434&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
