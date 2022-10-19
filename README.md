@@ -10,5 +10,5 @@
 
 
 - 🔭 I’m currently working on my Engineer's Thesis. 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java (Spring Boot) and Dart (Flutter)
 - 📫 How to reach me: [linkedin]: https://www.linkedin.com/in/jakub-ko%C5%BAlak-963518233/
